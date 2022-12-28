@@ -8,3 +8,15 @@ name = "site"
 
 # This page should be the root of your website. It's important.
 page = 'https://capricious-boar-dfa.notion.site/Prajjwal-Bhattarai-dd2617f869a240c78114efc16aa4c98a'
+
+
+[site]
+
+  [[site.inject.head.script]]
+  type="text/javascript"
+  src="https://www.googletagmanager.com/gtag/js?id=G-SS4V7KLNKE"
+
+
+  [[site.inject.head.script]]
+  type="text/javascript"
+  src="analytics.js"
