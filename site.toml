@@ -18,4 +18,4 @@ page = 'https://capricious-boar-dfa.notion.site/Prajjwal-Bhattarai-dd2617f869a24
 
   [[site.inject.head.script]]
   type="text/javascript"
-  src="/analytics.js"
+  src="analytics.js"
