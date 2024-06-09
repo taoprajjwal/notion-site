@@ -16,7 +16,6 @@ page = 'https://capricious-boar-dfa.notion.site/Prajjwal-Bhattarai-dd2617f869a24
   type="text/javascript"
   src="https://www.googletagmanager.com/gtag/js?id=G-SS4V7KLNKE"
 
-
   [[site.inject.head.script]]
   type="text/javascript"
-  src="analytics.js"
+  src="https://raw.githubusercontent.com/taoprajjwal/taoprajjwal.github.io/main/analytics.js"
